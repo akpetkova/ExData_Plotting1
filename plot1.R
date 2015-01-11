@@ -1,4 +1,3 @@
-# Coursera Course #: exdata-008
 # Author: apetkova
 
 plot_hist <- function(){
