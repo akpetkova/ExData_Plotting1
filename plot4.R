@@ -1,5 +1,4 @@
-# Coursera Course #: exdata-008
-# Author: Antoniya Petkova
+# Author: apetkova
 
 plot_multiple <- function(){
         
